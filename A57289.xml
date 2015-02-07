@@ -1331,12 +1331,19 @@ and the <hi>Consonant</hi> which comes next after it may be put in the place of 
             <div type="part">
                <head>Of leaving out Syllables.</head>
                <p>There are Syllables which are common for end<g ref="char:EOLhyphen"/>ing many words, as <hi>ed, est, eth,</hi> &amp;c. which for swiftness sake may be left out, and yet the Sense not be marred to any understanding Person; for if the <hi>root</hi> of the word be writ, the Sense will easily direct to the last Syllable, as if one should write <hi>thou understa me,</hi> sense will teach that it must be read <hi>thou understandest me,</hi> so <hi>thou lov me</hi> for <hi>lovest, teach</hi> for <hi>teachest;</hi> and so of any other word.</p>
-               <figure>
-                  <figDesc>list of shorthand entities</figDesc>
-               </figure>
-               <figure>
-                  <figDesc>list of shorthand entities</figDesc>
-               </figure>
+               <p>
+                  <pb facs="tcp:36695:17"/>
+                  <pb facs="tcp:36695:18" rendition="simple:additions"/>
+                  <figure>
+                     <figDesc>list of shorthand entities</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <pb facs="tcp:36695:19" rendition="simple:additions"/>
+                  <figure>
+                     <figDesc>list of shorthand entities</figDesc>
+                  </figure>
+               </p>
                <p>
                   <pb facs="tcp:36695:20"/>
                   <pb n="29" facs="tcp:36695:20"/>Many times half a long word may be left out, and yet be easily read, as <hi>Comis</hi> for <hi>Commission, Command</hi> for <hi>Commandment,</hi> and thus, <hi>the unright Pers. shant inher the Kingd. of Heav.</hi> will easily be read, <hi>the unrighteous Person shall not inherit the Kingdom of Heaven.</hi>
